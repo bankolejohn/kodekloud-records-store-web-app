@@ -1,7 +1,7 @@
 name: Progressive Config Management & Secure Release Pipeline
 
 on:
-  # push:
+  push:
   #   branches:
       - main
       - test-dev
